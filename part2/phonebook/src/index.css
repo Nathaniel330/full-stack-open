@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: rgb(42, 170, 170);
+}
+
+input {
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(88, 9, 4);
+}
+
+.note {
+    color: grey;
+    padding-top: 5px;
+    font-size: 15px;
+  }
+
+.message {
+    background: silver;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
